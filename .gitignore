@@ -10,3 +10,4 @@ __pycache__/
 *.swp
 Thumbs.db
 tmp_data.txt
+main.py
